@@ -34,4 +34,9 @@ Our task is to build a text editor that runs in the browser. The app will be a s
 4. Click on the Install button for desktop icon download.
 5. Ensure registered service worker pre-caches static assets.
 
+# Links
+ - [Text Master](https://text-master.onrender.com)
+
+ - [Git Hub](https://github.com/seokhh10/Text_Master)
+
 Enjoy using your Text Master Application!
